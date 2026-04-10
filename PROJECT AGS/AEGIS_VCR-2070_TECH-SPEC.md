@@ -1,5 +1,4 @@
 # Project Aegis: Technical Specifications
-**Era:** Vector Era (c. 2070)  
 **Authority:** The Columbian Empire / Parafield Corporation  
 **Classification:** Restricted – P.S.O. / U.C. Military Personnel Only  
 
