@@ -1,46 +1,42 @@
-# Component Specification: O-Cell (Type-Vector)
-**Manufacturer:** Orange Corporation (In collaboration with PFLD/ORI)  
-**Era:** Vector Era (c. 2070)  
-**Standard Issue:** Aegis Project Mechs (Sentinel, Juggernaut, Vanguard)
+# Technical Datasheet: O-Cell
+**Series:** Vector High-Density Power Systems
+**Developer:** Orange Corporation (Core Architecture)
+**Compatibility:** Aegis Project / Vector-Class Chassis
+**Classification:** Strategic Resource
 
 ---
 
-## 1. Technical Overview
-The **O-Cell** is a High-Density Solid-State Core designed specifically for the extreme power requirements of bipedal combat frames. Unlike traditional lithium-ion or fusion-battery predecessors, the O-Cell utilizes a proprietary "Orange-Ion" lattice, allowing for massive instantaneous discharge without core meltdown.
+## 1. Physical Profile
+* **Form Factor:** Cylindrical High-Pressure Casing (Reinforced Tungsten-Glass).
+* **Visual Signature:** Intense cerulean glow (Cherenkov-effect stabilization).
+* **Connection Interface:** 6-pin magnetic "Snap-Lock" for rapid mid-combat hot-swapping.
+* **Weight:** ~450kg (Standard Heavy Grade).
 
 ---
 
-## 2. Performance Metrics
-
-| Metric | Rating | Notes |
-| :--- | :--- | :--- |
-| **Energy Density** | 4.2 GJ/kg | Highest in the Columbian Empire civilian/military sector. |
-| **Peak Torque Output** | 12,000 Nm | Facilitates rapid dash-thrust and heavy lifting. |
-| **Recharge Cycle** | 15 Minutes | Requires a dedicated P.S.O. or U.C. military docking station. |
-| **Lifespan** | 2,500 Cycles | Efficiency degrades by 12% after 2,000 combat hours. |
+## 2. Energy Specifications
+* **Capacity:** 1.2 Petajoules per cell.
+* **Discharge Rate:** High-Torque Variable (Optimized for bipedal locomotion).
+* **Recharge Protocol:** Kinetic recovery and thermal harvesting (Integrated Aegis Feedback).
 
 ---
 
-## 3. Operational Features
+## 3. Operational States
 
-### Kinetic Burst Management
-The O-Cell is designed to handle "Surge Loads." When a pilot initiates an **Aegis Shift** (dash or shield deployment), the O-Cell releases a concentrated burst of energy.
-* **Thermal Venting:** Excessive surges trigger ORI-designed heat sinks to prevent internal chassis warping.
-* **O-Sync:** Direct integration with Parafield’s **Vector AI** allows the machine intelligence to "throttle" power in real-time to prevent total blackout during combat.
+### Active State (Blue Glow)
+* **Nominal:** Sustained power for all hydraulic systems and Vector AI processing.
+* **Peak Output:** Triggered during "Burst Maneuvers" (Dashing/Shielding). Glow intensity increases to white-blue.
 
-### The "Desperation" Protocol
-The O-Cell is chemically tuned to the Aegis neural link. When power drops below the **15% Threshold**:
-* **Physical Degradation:** The AI limits limb movement speed and dims non-essential sensors.
-* **Psychological Feedback:** The AI personality is programmed to exhibit "fatigue" or "stress," simulating biological exhaustion. This serves as a psychological cue to the pilot that the machine is dying, forcing immediate tactical retreat.
+### Depletion State (Flicker/Dim)
+* **Critical (<15%):** Light begins to pulsate; the Vector AI may exhibit "physical" sluggishness.
+* **Emergency (<5%):** Transition to "Limp Mode." The AI personality enters a "survival-desperation" state, diverting all remaining power to pilot life support.
 
 ---
 
-## 4. Safety & Volatility
-The O-Cell is highly stable under normal conditions but becomes a liability if the core casing is breached.
-* **Standard Failure:** On depletion, the cell simply hard-locks the mech’s joints.
-* **Combat Breach:** If an O-Cell is punctured by anti-mech ordnance, it undergoes "Thermal Runaway," resulting in a localized high-heat explosion. Pilots are trained to eject before the core hits critical instability.
+## 4. Advantage vs. Legacy Sources
+* **O-Cell vs. Solid State:** 400% increase in instantaneous power delivery.
+* **O-Cell vs. Fusion Cores:** No radiation hazard upon chassis breach; O-Cells are designed to "vent" energy safely rather than detonate.
+* **The "Orange" Standard:** Proprietary chemical catalysts allow for near-zero energy decay during long-term storage in the Columbian Empire’s armories.
 
 ---
-
-## 5. Maintenance Log
-> *"Orange Corp didn't just build a battery; they built a heart. Treat it like one. If the O-Cell stops beating, the AI stops thinking, and you stop breathing."* > — **Chief Engineer, Orange Corp Maintenance Division**
+> *“If the Vector AI is the soul, the O-Cell is the heartbeat. Don't let the heart stop.”* > — **Orange Corp Field Engineer**
