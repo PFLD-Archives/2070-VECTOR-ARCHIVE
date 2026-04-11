@@ -54,7 +54,7 @@ The **Vector-Class AI** is what defines an Aegis unit. These are not static oper
 * **Design:** Heavy-duty plating and O-Cell overcharged weaponry.
 * **AI Trait:** Disciplined, aggressive, and fiercely loyal to the Empire.
 
-### **U.C. "Vanguard" (Special Operations)**
+### **Aegis. "Vanguard" (Special Operations)**
 * **Role:** Deep-Stike Infiltration, High-Value Target Acquisition, and Asymmetric Warfare.
 * **Design:** Outfitted with ORI’s experimental "Ghost-Alloy" for low-radar cross-sections and specialized O-Cell capacitors for extended stealth-dash capabilities.
 * **AI Trait:** Highly adaptive, unorthodox, and possessing the most "human-like" personalities in the fleet. 
