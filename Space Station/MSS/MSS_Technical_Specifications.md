@@ -1,15 +1,15 @@
 # TECHNICAL SPECIFICATION: MILLER SPACE STATION (MSS)
 ## Project: Vanguard-Class Mobile Suppression Platform
 ## Operator: United Columbus (U.C.) Military / Parafield Security Operations (P.S.O.)
-## Date: November 2078
+## Finalized Date: November 2071
 
 ### I. OVERVIEW
-The Miller Space Station (MSS) is the primary frontline asset of the Columbian's network. Designated as a "Pawn" class station, the MSS is engineered for rapid intervention, liberation, and high-intensity defense. Unlike the JSS, which serves as a static sector deterrent, the MSS is designed for frequent FTL "blinks" to assist in active combat theaters across the solar system.
+The Miller Space Station (MSS) is the primary frontline asset of the Columbian's network. Designated as a "Pawn" class station, the MSS is engineered for rapid intervention, liberation, and high-intensity defense. Unlike the JSS, which serves as a static sector deterrent, the MSS is designed for frequent FTL "blinks" to assist in active combat theaters across the solar system. Began construction in 2065 and entered operational status in 2071.
 
 ### II. CORE SPECIFICATIONS
 * **Dimensions:** 8km (Length) x 3.5km (Diameter)
 * **Mass:** 140 Million Metric Tons
-* * **Cost:** Approximately 125 Trillion (During 2070)
+* **Estimated Cost:** $105.0 Trillion (2071 Credits)
 * **Crew Capacity:** 12,000 Total
     * 8,000 P.S.O. Combat Synthetics
     * 4,000 U.C. Military Personnel

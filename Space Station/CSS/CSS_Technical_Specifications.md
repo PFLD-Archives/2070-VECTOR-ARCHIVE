@@ -1,16 +1,16 @@
 # TECHNICAL SPECIFICATION: CHEN SPACE STATION (CSS)
 ## Project: Rapid Response / Expeditionary Deployment Platform
 ## Operator: United Columbus (U.C.) Military / Parafield Security Operations (P.S.O.)
-## Date: May 2073
+## Finalized Date: May 2073
 
 ### I. OVERVIEW
-The Chen Space Station (CSS) was developed in 2073 to streamline the "Liberation Protocol" for the Columbian Empire. It serves as a mobile barracks and heavy-drop facility. Unlike traditional troop carriers, the CSS is a hardened orbital platform capable of surviving intense planetary defense fire while deploying an entire army's worth of reinforcements and heavy Titans within minutes of FTL arrival.
+The Chen Space Station (CSS) was developed in 2073 to streamline the "Liberation Protocol" for the Columbian Empire. It serves as a mobile barracks and heavy-drop facility. Unlike traditional troop carriers, the CSS is a hardened orbital platform capable of surviving intense planetary defense fire while deploying an entire army's worth of reinforcements and heavy Titans within minutes of FTL arrival. Began construction in 2068 and entered operational status in 2073.
 
 ### II. CORE SPECIFICATIONS
 * **Dimensions:** 9.5km (Length) x 4.5km (Diameter)
 * **Mass:** 165 Million Metric Tons
-* **Development Year:** 2073
-* **Estimated Cost:** $110 Trillion (Adjusted 2073 Credits)
+* **Finalized Year:** 2073
+* **Estimated Cost:** $115 Trillion (2073 Credits)
 * **Crew Capacity:** 65,000 Total
     * 5,000 Station Operations Staff
     * 10,000 U.C. Expeditionary Marines

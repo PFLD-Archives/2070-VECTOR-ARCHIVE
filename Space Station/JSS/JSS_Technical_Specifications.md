@@ -1,15 +1,15 @@
 # TECHNICAL SPECIFICATION: JENSON SPACE STATION (JSS)
 ### **Project:** Sovereign-Class Strategic Defense Platform
 ### **Operator:** United Columbus (U.C.) Military / Parafield Security Operations (P.S.O.)
-### **Finalized Date:** September 2074
+### **Finalized Date:** February 2070
 
 ### I. OVERVIEW
-The Jenson Space Station (JSS) represents the pinnacle of human engineering and orbital hegemony as of 2070. Commissioned by the Columbian Empire and constructed by Parafield, the JSS serves as the primary defensive "Queen Pawn" for the SOL Sector. It is designed to act as a permanent deterrent and a mobile fortress capable of interstellar intervention. Began construction in the 2060's and finalized and entered operational status in 2074.
+The Jenson Space Station (JSS) represents the pinnacle of human engineering and orbital hegemony as of 2070. Commissioned by the Columbian Empire and constructed by Parafield, the JSS serves as the primary defensive "Queen Pawn" for the SOL Sector. It is designed to act as a permanent deterrent and a mobile fortress capable of interstellar intervention. Began construction in 2062 and finalized and entered operational status in 2070.
 
 ## II. CORE SPECIFICATIONS
 * **Dimensions:** 42km (Length) x 18km (Diameter)
 * **Mass:** 1.2 Billion Metric Tons
-* **Cost:** Approximately 450 Trillion (During 2070)
+* **Cost:** $450.0 Trillion (2070 Credits)
 * **Crew Capacity:** 250,000 Total
 * **Primary Power Plant:** Synthetic Fusion Reactor (S.F.R.) Mark II
     * **Codename:** Project OnStar

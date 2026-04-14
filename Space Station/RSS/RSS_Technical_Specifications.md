@@ -1,15 +1,15 @@
 # TECHNICAL SPECIFICATION: RHODES SPACE STATION (RSS)
 ## Project: Mobile Logistic & Repair Foundry
 ## Operator: United Columbus (U.C.) Military / Parafield Security Operations (P.S.O.)
-## Date: October 2082
+## Finalized Date: October 2074
 
 ### I. OVERVIEW
-The Rhodes Space Station (RSS) is the logistical backbone of Columbian's network. As a "Pawn" class station, its primary function is to sustain the fleet during long-term liberation campaigns. The RSS is designed to FTL-jump into "Cold Zones" (secure areas behind the front lines) to provide immediate repair, refueling, and resupply for P.S.O. and U.C. vessels.
+The Rhodes Space Station (RSS) is the logistical backbone of Columbian's network. As a "Pawn" class station, its primary function is to sustain the fleet during long-term liberation campaigns. The RSS is designed to FTL-jump into "Cold Zones" (secure areas behind the front lines) to provide immediate repair, refueling, and resupply for P.S.O. and U.C. vessels. Began construction in 2069 and entered operational status in 2074.
 
 ### II. CORE SPECIFICATIONS
 * **Dimensions:** 10km (Length) x 6km (Width - Wing Expansion)
 * **Mass:** 200 Million Metric Tons (Variable based on cargo load)
-* **Cost:** Approximately 135 Trillion (During 2070)
+* **Estimated Cost:** $145.0 Trillion (2074 Credits)
 * **Crew Capacity:** 45,000 Total
     * 5,000 Military Security
     * 35,000 Engineering and Industrial Personnel
