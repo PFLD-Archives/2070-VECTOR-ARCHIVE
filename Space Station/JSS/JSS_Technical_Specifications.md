@@ -11,9 +11,6 @@ The Jenson Space Station (JSS) represents the pinnacle of human engineering and 
 * **Mass:** 1.2 Billion Metric Tons
 * **Cost:** Approximately 450 Trillion (During 2070)
 * **Crew Capacity:** 250,000 Total
-    * 150,000 Military Personnel
-    * 80,000 Civilian Support Staff
-    * 20,000 P.S.O. Synthetic Units
 * **Primary Power Plant:** Synthetic Fusion Reactor (S.F.R.) Mark II
     * **Codename:** Project OnStar
     * **Description:** A contained artificial star providing near-infinite energy for propulsion, structural integrity fields, and high-energy weaponry.
