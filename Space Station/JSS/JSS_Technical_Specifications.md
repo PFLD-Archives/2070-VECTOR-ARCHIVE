@@ -36,7 +36,7 @@ A continuous-wave fusion energy beam.
 ### IV. THE DESTRUCTIVE PATH: STELLAR SINGULARITY LANCE
 The ultimate weapon of the Columbian Empire, used only when the total destruction of a planetary body is mandated.
 
-* **Mechanism:** The JSS projects a high-density dark-matter needle into the target’s core to create a gravitational anchor. Unfiltered S.F.R. plasma is then injected directly into the planet.
+* **Mechanism:** The JSS welds a high-density needle on the bottom of the station and fires it into the target’s core to create a gravitational anchor. Unfiltered S.F.R. plasma is then injected directly into the planet.
 * **Lethality Options:**
     1.  **Planetary Fragmentation:** Thermal expansion exceeds the target’s gravitational binding energy, shattering the planet.
     2.  **Singularity Collapse:** Reversing magnetic polarity compresses the planet’s mass into its Schwarzschild Radius, creating a conventional black hole.
