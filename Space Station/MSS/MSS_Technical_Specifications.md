@@ -4,7 +4,7 @@
 ## Finalized Date: November 2071
 
 ### I. OVERVIEW
-The Miller Space Station (MSS) is the primary frontline asset of the Columbian's network. Designated as a "Pawn" class station, the MSS is engineered for rapid intervention, liberation, and high-intensity defense. Unlike the JSS, which serves as a static sector deterrent, the MSS is designed for frequent FTL "blinks" to assist in active combat theaters across the solar system. Began construction in 2065 and entered operational status in 2071.
+The Miller Space Station (MSS) is the primary frontline asset of the Columbian network. Designated as a Pawn class station, the MSS is engineered for rapid intervention, liberation, and high-intensity defense. Unlike the JSS, which serves as a static sector deterrent, the MSS is designed for frequent FTL blinks to assist in active combat theaters across the solar system. Construction began in 2065 and it entered operational status in 2071.
 
 ### II. CORE SPECIFICATIONS
 * **Dimensions:** 8km (Length) x 3.5km (Diameter)
@@ -19,23 +19,23 @@ The Miller Space Station (MSS) is the primary frontline asset of the Columbian's
 ### III. TACTICAL ARMAMENTS
 The MSS loadout is optimized for close quarters operations, emphasizing durability and the ability to overwhelm enemy formations through superior positioning.
 
-#### 1. The Phalanx Saturation Projector
+#### 1. PHALANX SATURATION PROJECTOR
 A station-wide electromagnetic array designed to turn the station's own mass into a weapon.
-* **Mechanism:** Instead of traditional turrets, the Phalanx system uses a series of ventral rails to launch "cloud-burst" canisters of depleted uranium shards. These canisters are accelerated using S.F.R. energy.
-* **Tactical Application:** Creates a high-velocity debris field in the path of incoming enemy fleets or over a target liberation zone. The sheer volume of kinetic impactors can strip the shielding and hull plating off multiple frigates simultaneously, creating a "clean" path for ally drop-ships.
+* **Mechanism:** Instead of traditional turrets, the Phalanx system uses a series of ventral rails to launch cloud-burst canisters of depleted uranium shards. These canisters are accelerated using S.F.R. energy.
+* **Tactical Application:** Creates a high-velocity debris field in the path of incoming enemy fleets or over a target liberation zone. The sheer volume of kinetic impactors can strip the shielding and hull plating off multiple frigates simultaneously, creating a clean path for ally drop-ships.
 
-#### 2. Thermal Lancing Spire
+#### 2. THERMAL LANCING SPIRE
 A forward-mounted fusion discharge array.
 * **Mechanism:** Directs a concentrated stream of S.F.R. plasma through a reinforced magnetic aperture at the station’s prow.
 * **Tactical Application:** Precision cutting of enemy capital ships and surgical destruction of hardened ground-based fortifications.
 
-#### 3. Hyper-Dense Ablative Shielding
+#### 3. HYPER-DENSE ABLATIVE SHIELDING
 The MSS’s primary defensive suite, prioritizing physical resilience over distortion.
 * **Mechanism:** The S.F.R. Mark II powers a high-frequency energy skin that bonds to the station's heavy composite armor.
-* **Tactical Application:** Allows the MSS to perform "Contact Maneuvers," where the station's bulk is used to physically ram or displace hostile vessels without sustaining critical structural failure.
+* **Tactical Application:** Allows the MSS to perform Contact Maneuvers, where the station's bulk is used to physically ram or displace hostile vessels without sustaining critical structural failure.
 
-### IV. OPERATIONAL DEPLOYMENT: THE BLINK STRATEGY
-The MSS is designed to support the U.C. military by jumping directly into the "blind spots" of enemy radar. 
+### IV. OPERATIONAL DEPLOYMENT: BLINK STRATEGY
+The MSS is designed to support the U.C. military by jumping directly into the blind spots of enemy radar.
 * **FTL Maneuverability:** Optimized for short-range tactical jumps within a single planetary system.
 * **Liberation Role:** Serves as an orbital staging ground; the MSS can deploy 1,000 P.S.O. drop-pods within 120 seconds of exiting FTL.
 
